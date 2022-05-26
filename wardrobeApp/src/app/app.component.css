@@ -1,0 +1,27 @@
+h1{
+    font-size: 20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: rgb(59, 59, 59);
+}
+
+.material-symbols-rounded {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    color: rgb(59, 59, 59);
+    padding: 12px 16px; 
+    font-size: 40px; 
+    cursor: pointer; 
+  }
+
+button:hover{
+    color: black;
+}
